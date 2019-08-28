@@ -13,6 +13,7 @@
         <title>JSP Page</title>
     </head>
     <body>
+<!--        this is sample change-->
         <%
            String sid=request.getParameter("sid");
            Class.forName("com.mysql.jdbc.Driver");
